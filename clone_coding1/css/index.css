@@ -45,7 +45,7 @@
 #content .img1 {
   height: auto;
   width: 1550px;
-  position: absolute;
+  position: relative;
   left: 130px;
   overflow: hidden;
 }
