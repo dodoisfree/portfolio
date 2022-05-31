@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/portfolio/ReactOAPIO/static/js/main.ae2d1f60.js",
+    "static/media/ryan.png": "/portfolio/ReactOAPIO/static/media/ryan.dd1418672edce5ba64b0.png",
+    "static/media/moveloc.png": "/portfolio/ReactOAPIO/static/media/moveloc.3f415cddb18c2a8cd50a.png",
+    "static/media/moveloc2.png": "/portfolio/ReactOAPIO/static/media/moveloc2.71edf8a26a90e4550956.png",
+    "index.html": "/portfolio/ReactOAPIO/index.html",
+    "main.ae2d1f60.js.map": "/portfolio/ReactOAPIO/static/js/main.ae2d1f60.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ae2d1f60.js"
+  ]
+}
