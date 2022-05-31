@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/portfolio/React_OAPIP_SemiProject/static/js/main.ba0610d1.js",
+    "static/media/ryan.png": "/portfolio/React_OAPIP_SemiProject/static/media/ryan.dd1418672edce5ba64b0.png",
+    "static/media/moveloc.png": "/portfolio/React_OAPIP_SemiProject/static/media/moveloc.3f415cddb18c2a8cd50a.png",
+    "static/media/moveloc2.png": "/portfolio/React_OAPIP_SemiProject/static/media/moveloc2.71edf8a26a90e4550956.png",
+    "index.html": "/portfolio/React_OAPIP_SemiProject/index.html",
+    "main.ba0610d1.js.map": "/portfolio/React_OAPIP_SemiProject/static/js/main.ba0610d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba0610d1.js"
+  ]
+}
